@@ -410,13 +410,14 @@ else:
 """DAY-4 : loops and if-elif-else"""
 
 #if else statements
+"""
 if(confition):
   statement
 elif(condition):
   statement
 else:
   statement
-
+"""
 i=int(input())
 if i==20:
   print("i is equal to 20")
